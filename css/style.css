@@ -48,6 +48,12 @@ img{
   background-color: #005792!important;
 }
 
+html,body{
+  overflow-x: hidden;
+  /* position: relative; */
+  /* width: 100%;
+  height:100%; */
+}
 /* HEADER */
 
 .background-header{

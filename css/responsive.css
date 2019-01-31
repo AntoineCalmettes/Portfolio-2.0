@@ -74,6 +74,11 @@ margin-left: 0px;
   padding-top: 40px;
 }
 .fa-linkedin{
-  left:O!important;
+  margin-left: 0px!important;
+  padding-left: 0px!important;
+}
+
+.wave{
+  display: none;
 }
 }
