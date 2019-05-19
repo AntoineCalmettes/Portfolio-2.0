@@ -145,10 +145,11 @@ background-color: #005792;
 /*  A PROPOS */
 
 #img-1{
-    position: relative;
-    top: -80px;
-    left: 20px;
-    height: 400px;
+  position: relative;
+  top: -132px;
+  left: 220px;
+  height: 400px;
+
 
 }
 
@@ -159,9 +160,9 @@ background-color: #005792;
 }
 
 .bg-competence{
-  background-color: rgba(0, 87, 146  ,0.7);
+  background-color: rgba(0, 87, 146  ,0.8);
   position: relative;
-  top: -400px;
+  top: -360px;
   left: 410px;
   padding: 55px;
   text-align: center;
@@ -175,7 +176,7 @@ color: #00204A;
 }
 
 .bg-formation{
-  background-color: rgba(0, 87, 146  ,0.7);
+  background-color: rgba(0, 87, 146  ,0.8);
   padding: 25px;
     border-radius: 15px;
 
@@ -183,17 +184,21 @@ color: #00204A;
 #div-formation{
   position: relative;
 top: -192px;
-left: 20px;
+left: 90px;
 text-align: center;
 border-radius: 15px;
 }
 
 #div-img-2{
   position: relative;
-top: -149px;
+top: -174px;
 left: -60px;
 z-index: -1;
 border-radius: 15px;
+}
+
+#img-2{
+  max-width: 130%;
 }
 
 
@@ -204,7 +209,7 @@ border-radius: 15px;
 #filtre-img3{
   height: 375px;
       width: 758px;
-      background-color: rgba(0, 87, 146, 0.7);
+      background-color: rgba(0, 87, 146, 0.8);
       position: relative;
       border-radius: 15px;
       top: -420px;
